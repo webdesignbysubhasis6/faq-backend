@@ -56,7 +56,7 @@ Ensure you have **Node.js** and **MongoDB** installed.
 
 ### 1️⃣ Clone the Repository
 ```bash
-$ git clone https://github.com/your-repo/faq-management.git
+$ git clone https://github.com/webdesignbysubhasis6/faq-backend.git
 $ cd faq-management
 ```
 
@@ -70,7 +70,7 @@ Create a `.env` file in the root directory and configure it:
 ```env
 MONGO_URI=mongodb://localhost:27017/faq-db
 REDIS_HOST=localhost
-REDIS_PORT=6379
+REDIS_PORT=10812
 REDIS_PASS=your_redis_password
 ```
 
@@ -121,12 +121,10 @@ The API will be available at: `http://localhost:5000`
 ---
 
 ## 👨‍💻 Contributors
-- **Your Name** – [GitHub](https://github.com/your-profile)
+- **Subhasis Paul** – [GitHub](https://github.com/webdesignbysubhasis6)
 
 Feel free to contribute to this project by submitting issues or pull requests! 🚀
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
