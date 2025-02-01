@@ -10,7 +10,7 @@ A simple yet efficient **FAQ Management System** built with **Node.js, Express, 
 
 ## 🚀 Features
 
-✅ **Multilingual Support** – FAQs are stored in multiple languages using Google Translate API.
+✅ **Multilingual Support** – FAQs are stored in multiple languages using Google Trans.
 
 ✅ **Redis Caching** – Enhances performance by caching frequently accessed FAQs.
 
@@ -115,7 +115,7 @@ The API will be available at: `http://localhost:5000`
 - **Node.js & Express.js** – Backend framework
 - **MongoDB & Mongoose** – Database & ODM
 - **Redis** – Caching layer
-- **Google Translate API** – Text translation
+- **Google Trans** – Text translation
 - **dotenv** – Environment variable management
 
 ---
